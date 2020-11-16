@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba7d082e-faa1-4672-8605-db7761c7507f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jSEpiQZtwxPksHzr201cxTny6a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views" />
+      <recent name="$PROJECT_DIR$/core" />
+      <recent name="$PROJECT_DIR$/database/classesName" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/views/partials" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba7d082e-faa1-4672-8605-db7761c7507f" name="Default Changelist" comment="" />
+      <created>1603789276498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603789276498</updated>
+      <workItem from="1603789277551" duration="22964000" />
+      <workItem from="1603821070823" duration="4312000" />
+      <workItem from="1603877693379" duration="16700000" />
+      <workItem from="1603968640326" duration="5398000" />
+      <workItem from="1604047157726" duration="12890000" />
+      <workItem from="1604060892820" duration="7349000" />
+      <workItem from="1604269160226" duration="2152000" />
+      <workItem from="1604311721766" duration="2065000" />
+      <workItem from="1604314942795" duration="614000" />
+      <workItem from="1604315584045" duration="6730000" />
+      <workItem from="1604567526704" duration="22692000" />
+      <workItem from="1604658941709" duration="5766000" />
+      <workItem from="1604737076635" duration="22764000" />
+      <workItem from="1604842910773" duration="13922000" />
+      <workItem from="1604868775471" duration="14043000" />
+      <workItem from="1604909977753" duration="15742000" />
+      <workItem from="1604948032191" duration="9040000" />
+      <workItem from="1604997995767" duration="20447000" />
+      <workItem from="1605086623794" duration="33804000" />
+      <workItem from="1605170346194" duration="18967000" />
+      <workItem from="1605339561160" duration="680000" />
+      <workItem from="1605347767879" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="199" width="655" height="410" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604570716489">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="393" y="199" width="655" height="410" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1604570716489" />
+    <state x="426" y="167" width="494" height="475" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603809187219">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="426" y="167" width="494" height="475" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1366.741@0.27.1366.741" timestamp="1603809187219" />
+    <state x="416" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603797773088">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1603797773088" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1604666506637">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1604666506637" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1605004230842">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.27.1366.741@0.27.1366.741" timestamp="1605004230842" />
+    <state x="293" y="27" width="770" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604938325758">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="293" y="27" width="770" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1604938325758" />
+    <state x="0" y="27" width="618" height="741" key="find.popup" timestamp="1603823526911">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="618" height="741" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1603823526911" />
+    <state x="347" y="174" key="run.anything.popup" timestamp="1604759326383">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1604759326383" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1605186221128">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1605186221128" />
+  </component>
+</project>

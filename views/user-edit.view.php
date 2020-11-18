@@ -8,26 +8,26 @@
     <h1 class="font-bold text-2xl">Edit User</h1>
     <form action="user-update" method="post" class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4 w-1/3">
 
-        <input type="hidden" name="id" value="<?php echo $user[0]['id']; ?>">
+        <input type="hidden" name="id" value="<?php echo $id; ?>">
 
         <div class="mb-2">
             <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Name</label>
-            <input type="text" name="name" id="name" value="<?php echo $user[0]['name']; ?>" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+            <input type="text" name="name" id="name" value="<?php echo $name; ?>" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
         </div>
 
         <div class="mb-2">
             <label for="address" class="block text-gray-700 text-sm font-bold mb-2">Address</label>
-            <input type="text" name="address" id="address" value="<?php echo $user[0]['address']; ?>" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+            <input type="text" name="address" id="address" value="<?php echo $address; ?>" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
         </div>
 
         <div class="mb-2">
             <label for="email" class="block text-gray-700 text-sm font-bold mb-2">Email</label>
-            <input type="email" name="email" id="email" value="<?php echo $user[0]['email'] ?>" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+            <input type="email" name="email" id="email" value="<?php echo $email ?>" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
         </div>
 
         <div class="mb-2">
             <label for="password" class="block text-gray-700 text-sm font-bold mb-2">Password</label>
-            <input type="password" name="password" id="password" value="<?php echo $user[0]['password']; ?>" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
+            <input type="password" name="password" id="password" value="<?php echo $password; ?>" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline">
         </div>
 
         <div class="mb-2">

@@ -1,7 +1,12 @@
 <?php
 session_start();
-$products = $app['database']->selectAll('products');
-$users = $app['database']->selectAll('users');
-$client = $app['database']->selectRow('users', $_SESSION['email']);
+
+if ($_SESSION['role'] == 'admin') {
+    $products = $app['database']->selectAll('products');
+    $users = $app['database']->selectAll('users');
+} else {
+    $products = $app['database']->selectRow('products', $_SESSION['id'], 'user_id');
+}
+
 
 require 'views/profile.view.php';

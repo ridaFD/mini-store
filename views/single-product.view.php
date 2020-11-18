@@ -7,7 +7,7 @@
     <div class="border border-black m-4">
         <div class="container">
             <div class="flex">
-                <img src="public/images/iphone-11.jpg" alt="" width="480">
+                <img src="public/images/<?php echo $_POST['image']; ?>" alt="" width="480">
                 <div class="m-4">
                     <div>
                         <h1 class="text-3xl">Name</h1>
@@ -23,12 +23,13 @@
                     </div>
 
                     <div class="mt-4">
-                        <?php if ($client[0]['role'] == 'customer') : ?>
+                        <?php if ($_SESSION['role'] == 'customer') : ?>
                             <form action="single-product" method="post">
                                 <input type="hidden" name="id" value="<?php echo $_POST['id']; ?>">
                                 <input type="hidden" name="name" value="<?php echo $_POST['name']; ?>">
                                 <input type="hidden" name="description" value="<?php echo $_POST['description']; ?>">
                                 <input type="hidden" name="price" value="<?php echo $_POST['price']; ?>">
+                                <input type="hidden" name="image" value="<?php echo $_POST['image']; ?>">
 
                                 <div class="flex flex-col border border-black w-24 mb-8 bg-blue-400 p-2">
                                     <label for="quantity" class="mb-2 text-center">Quantity</label>

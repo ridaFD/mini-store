@@ -15,14 +15,14 @@ class QueryBuilder {
 
         $statement->execute();
 
-        $results = $statement->fetchAll(PDO::FETCH_CLASS);
+        $results = $statement->fetchAll(PDO::FETCH_ASSOC);
 
         return $results;
     }
 
-    function selectRow($table, $email)
+    function selectRow($table, $value, $key)
     {
-        $statement = $this->pdo->prepare("select * from {$table} where email = '{$email}'");
+        $statement = $this->pdo->prepare("select * from {$table} where {$key} = {$value}");
 
         $statement->execute();
 

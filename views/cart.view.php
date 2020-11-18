@@ -4,7 +4,7 @@
     <?php require 'partials/head.php'; ?>
     <?php require 'partials/_navbar.view.php'; ?>
 
-    <?php if ($client[0]['role'] == 'customer') : ?>
+    <?php if ($_SESSION['role'] == 'customer') : ?>
 
     <div class="flex justify-center">
         <div class="container flex justify-between">

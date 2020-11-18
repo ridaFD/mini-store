@@ -1,5 +1,6 @@
 <?php
-$id = $_POST;
-$productDelete = $app['database']->delete('products', (int)$_POST['id']);
+$id = (int)$_POST['id'];
 
-header("Location:home");
+$productDelete = $app['database']->delete('products', $id);
+
+header("Location:/");

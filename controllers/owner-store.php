@@ -6,4 +6,4 @@
 $user = $app['database']->insert('users', $_POST);
 
 
-header("location:owners");
+header("location:profile");

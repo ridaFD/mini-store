@@ -47,7 +47,7 @@
 
             <div class="mb-2">
                 <button type="submit" class="border border-blue-300 p-1 rounded bg-blue-500 text-white">Submit</button>
-                <a href="home" class="border border-blue-300 p-1 rounded">Cancel</a>
+                <a href="/" class="border border-blue-300 p-1 rounded">Cancel</a>
             </div>
         </form>
     </div>

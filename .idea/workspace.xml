@@ -14,7 +14,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba7d082e-faa1-4672-8605-db7761c7507f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/login-get.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/login-get.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/login-validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/login-validation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/owner-store.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/owner-store.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/product-create.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/product-create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/product-delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/product-delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/product-edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/product-edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/product-store.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/product-store.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/product-update.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/product-update.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/profile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/user-edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/user-edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/database/QueryBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/core/database/QueryBuilder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/cart.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/cart.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/login.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/login.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/_navbar.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/_navbar.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/product-edit.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/product-edit.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/products.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/products.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/profile.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/profile.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/single-product.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/single-product.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/user-edit.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/user-edit.view.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +47,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jSEpiQZtwxPksHzr201cxTny6a" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -87,6 +109,10 @@
       <workItem from="1605170346194" duration="18967000" />
       <workItem from="1605339561160" duration="680000" />
       <workItem from="1605347767879" duration="72000" />
+      <workItem from="1605520544390" duration="11991000" />
+      <workItem from="1605546556701" duration="4308000" />
+      <workItem from="1605600564256" duration="10815000" />
+      <workItem from="1605617497164" duration="11651000" />
     </task>
     <servers />
   </component>
@@ -130,6 +156,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="293" y="27" width="770" height="741" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1604938325758" />
+    <state x="100" y="127" width="1166" height="541" key="dock-window-1" timestamp="1605627970699">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="100" y="127" width="1166" height="541" key="dock-window-1/0.27.1366.741@0.27.1366.741" timestamp="1605627970699" />
     <state x="0" y="27" width="618" height="741" key="find.popup" timestamp="1603823526911">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -138,9 +168,9 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="347" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1604759326383" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1605186221128">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1605637363409">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1605186221128" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1605637363409" />
   </component>
 </project>

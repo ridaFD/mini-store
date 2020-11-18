@@ -1,4 +1,3 @@
-
 <?php require 'partials/head.php'; ?>
 
 <div class="border border-gray-500 flex justify-center">
@@ -8,12 +7,18 @@
         <form action="login" method="post">
             <div class="mb-2 flex flex-col">
                 <label for="email" class="mr-2">Email</label>
-                    <input type="email" name="email" id="email" class="border border-gray-300 p-2">
+                <input type="email" name="email" id="email" class="border border-gray-300 p-2">
+                <?php if (!empty($errors['email'])) : ?>
+                    <p><?php echo $errors['email'][0]; ?></p>
+                <?php endif; ?>
             </div>
 
             <div class="mb-2 flex flex-col">
                 <label for="password" class="mr-2">Password</label>
                 <input type="password" name="password" id="password" class="border border-gray-300 p-2">
+                <?php if (!empty($errors['password'] )) : ?>
+                    <p><?php echo $errors['password'][0]; ?></p>
+                <?php endif; ?>
             </div>
 
             <div>

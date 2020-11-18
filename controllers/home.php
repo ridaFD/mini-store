@@ -1,9 +1,9 @@
 <?php
 session_start();
-$products = $app['database']->selectAll('products');
 
-//$user = $app['database']->selectRow('users', $_SESSION['email']);
-
-
-
+if ($_SESSION['role'] == 'admin' || $_SESSION['role'] == 'customer') {
+    $products = $app['database']->selectAll('products');
+} else {
+    $products = $app['database']->selectRow('products', $_SESSION['id'], 'user_id');
+}
 require 'views/home.view.php';

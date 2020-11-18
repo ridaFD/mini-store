@@ -14,4 +14,4 @@ $productUpdate = $app['database']->edit('products', (int)$_POST['id'], [
 
 
 
-header("Location:home");
+header("Location:/");
